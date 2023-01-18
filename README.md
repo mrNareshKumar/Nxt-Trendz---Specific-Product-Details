@@ -1,3 +1,12 @@
+# LIVE DEMO :-  <a href="https://nxtendproduct.ccbp.tech">Nxt Trendz - Specific Product Details</a>
+### Login Details for Prime User
+Username: rahul </br>
+Password: rahul@2021
+
+### Login Details for non-Prime User
+Username: raja </br>
+Password: raja@2021
+
 In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
